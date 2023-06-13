@@ -25,7 +25,7 @@ const UserProfile = ({ params }) => {
   return (
     <Profile
       name={userName}
-      desc={`Welcome to ${userName}'s personalized profile page. Explore ${userName}'s exceptional prompts and be inspired by the power of their imagination`}
+      desc={`Selamat datang di ${userName} halaman profile personal. Jelajahi cara ${userName} melawan korupsi atau menolak gratifikasi saat menjalankan tugas`}
       data={userPosts}
     />
   );
